@@ -11,5 +11,12 @@
 - GitHub for building of portfolio [Download Here](https://www.github.com)
 - Power Bi
 
-#### Lesson learnt
-- How to Work perfectl
+#### Lessons learnt
+- How to Work perfectly use excel for various data anylysis, summary of data, and also diffrent shortcuts
+- how to load and inspect data
+- How to handle missing variables
+- Formating and cleaning of data
+- Exploratory Data Analysis:  this is used in the exploring of data to answer some questions about data which involves
+ 1. the overall sales trend
+ 2. products on peak sales
+ 3. the products that are top sellers
