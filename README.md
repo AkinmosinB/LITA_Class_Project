@@ -3,10 +3,10 @@
 ---
 [Tools Used for the Training](#tools-used-for-the-training)
 
-[DATA VISULIZATION](#data-analysis)
-[Lessons learnt](#lesson-learnt)
-[Tools Used for the Training](#tools-used-for-the-training)
 
+[Lessons learnt](#lessons-learnt)
+
+[DATA SUMMARY](#data-summary)
 
 #### Tools Used for the Training
 ---
@@ -34,7 +34,7 @@ SELECT * FROM TABLE 1
 WHERE CONDITION = TRUE
 ```
 
-### DATA VISULIZATION
+### DATA SUMMARY
 ---
 
 ![Screenshot 2024-11-05 084312 AKINMOSIN 3](https://github.com/user-attachments/assets/12a4e9bf-634b-4609-827d-e6184a249e0e)
