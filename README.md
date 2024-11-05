@@ -7,7 +7,7 @@
   1. Data Analysis
   2. Data Visualization
   3. Data Cleaning
-- SQL- Structured Querry Language to query data [Download Here](https://www.https://www.microsoft.com/en-ca/sql-server/sql-server-downloads)
+- SQL- Structured Querry Language to query data
 - GitHub for building of portfolio [Download Here](https://www.github.com)
 - Power Bi
 
