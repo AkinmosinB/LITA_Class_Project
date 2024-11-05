@@ -3,6 +3,7 @@
 
 
 #### Tools Used for the Training
+---
 - Microsoft Excel for: [Download Here](https://wwww.microsoft.com)
   1. Data Analysis
   2. Data Visualization
@@ -12,6 +13,7 @@
 - Power Bi
 
 #### Lessons learnt
+---
 - How to Work perfectly use excel for various data anylysis, summary of data, and also diffrent shortcuts
 - how to load and inspect data
 - How to handle missing variables
@@ -20,3 +22,8 @@
  1. the overall sales trend
  2. products on peak sales
  3. the products that are top sellers
+
+```SQL
+SELECT * FROM TABLE 1
+WHERE CONDITION = TRUE
+```
