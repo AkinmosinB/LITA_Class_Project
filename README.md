@@ -60,8 +60,7 @@ WHERE CONDITION = TRUE
 
 ![Screenshot 2024-11-05 084859AKINMOSIN5](https://github.com/user-attachments/assets/7e4b1ca8-6d23-462c-8d2a-c9c17269f539)
 
-😆
-😄
+
 🇳🇬
 🇨🇦
 
