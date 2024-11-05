@@ -1,6 +1,11 @@
 # LITA_Class_Project
 ## My LITA Data Analysis with Incubator Hub
 ---
+[Tools Used for the Training](#tools-used-for-the-training)
+
+[DATA VISULIZATION](#data-analysis)
+[Lessons learnt](#lesson-learnt)
+
 
 
 #### Tools Used for the Training
